@@ -1,0 +1,5 @@
+step_position_teta : essa a função de transferência X(s)/Teta(s) junto como seu gráfico de resposta ao degrau.
+step_position_voltage : essa a função de transferência X(s)/U(s) junto como seu gráfico de resposta ao degrau.
+step_teta_voltage : essa a função de transferência Teta(s)/U(s) junto como seu gráfico de resposta ao degrau.
+
+Mais informações são vistas nos comentários dos códigos.
